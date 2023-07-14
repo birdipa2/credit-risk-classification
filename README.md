@@ -33,7 +33,9 @@ git clone https://github.com/birdipa2/credit-risk-classification.git
 cd loan-default-prediction
 ```
 
-2. Run the `loan_default_prediction.ipynb` notebook to train and evaluate the machine learning models.
+2. Run the `credit_risk_classification.ipynb` notebook from 'Credit_Risk' folder to train and evaluate the machine learning models.
+
+3. The `lending_data.csv` file has been stored in 'Resources' sub-folder inside the 'Credit_Risk' folder.
 
 ## Results
 
