@@ -30,7 +30,7 @@ pip install numpy pandas scikit-learn imbalanced-learn
 
 ```
 git clone https://github.com/birdipa2/credit-risk-classification.git
-cd loan-default-prediction
+cd credit-risk-classification
 ```
 
 2. Run the `credit_risk_classification.ipynb` notebook from 'Credit_Risk' folder to train and evaluate the machine learning models.
