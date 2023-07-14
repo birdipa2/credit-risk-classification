@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Module 12 Report
 
 ## Overview of the Analysis
 
@@ -10,11 +10,11 @@
 
   * Data preprocessing: This involved loading the data, separating the features and target variable, and splitting the data into training and testing sets.
   * Model training and evaluation: Two machine learning models, namely Logistic Regression with Original Data and Logistic Regression with Resampled Data, were trained and evaluated using the training and testing sets. The models were evaluated based on accuracy, precision, recall, and F1-score.
-  * Model comparison and selection: The performance of the models was compared, and the best-performing model was identified.Logistic Regression is a popular linear classification model.
+  * Model comparison and selection: The performance of the models was compared, and the best-performing model was identified. The model with resampled data has better accuracy, the ability to minimize false positives and false negatives, and overall precision, F1 score and recall for both label 0 and label 1, making it more effective in predicting loan default risk.
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+Following are the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Logistic Regression Model with Original Data:
   * Balanced Accuracy Score: 0.944
