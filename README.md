@@ -41,13 +41,13 @@ cd credit-risk-classification
 
 The project utilizes two machine learning models: Logistic Regression with Original Data and Logistic Regression with Resampled Data.
 
-The Logistic Regression model with Original Data achieved an accuracy score of 0.952 and exhibited good precision, recall, and F1-scores for both healthy loans and loan defaults.
+The Logistic Regression model with Original Data achieved a balanced accuracy score of 0.952 and exhibited good precision, recall, and F1-scores for both healthy loans and loan defaults.
 
-The Logistic Regression model with Resampled Data achieved an accuracy score of 0.994 and demonstrated improved precision, recall, and F1-scores, especially for loan defaults.
+The Logistic Regression model with Resampled Data achieved a balanced accuracy score of 0.994 and demonstrated improved precision, recall, and F1-scores, especially for loan defaults.
 
 ## Conclusion
 
-Based on the evaluation results, the Logistic Regression model with Resampled Data outperformed the model trained on the original data. It showed higher accuracy and better performance in capturing loan defaults. Therefore, it is recommended to use the Logistic Regression model with Resampled Data for loan default prediction.
+Based on the evaluation results, the Logistic Regression model with Resampled Data outperformed the model trained on the original data. It showed higher balanced accuracy and better performance in capturing loan defaults. Therefore, it is recommended to use the Logistic Regression model with Resampled Data for loan default prediction.
 
 ## Contact
 
